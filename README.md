@@ -1,6 +1,6 @@
 # electron-vue
 
-> An electron-vue project
+> An electron-vue project. Allows viewing local images.
 
 #### Build Setup
 
